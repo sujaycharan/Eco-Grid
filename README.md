@@ -96,15 +96,6 @@ from sklearn.metrics import mean_squared_error
 
 ---
 
-## 📸 Screenshots (Optional)
-> Add screenshots or GIFs of your web interface here:
-- Dashboard
-- Prediction Results
-- SMS Alerts
-- QR Code Generator
-
----
-
 ## 🚀 Future Enhancements
 
 - Add interactive frontend using **React.js**
